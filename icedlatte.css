@@ -1,0 +1,22 @@
+img{
+    padding-left: 32%;
+}
+h2{
+    text-align: center;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p{
+    padding-top: 20px;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1{
+    padding-top: 100px ;
+    text-align: center;
+        font-size: 30px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+}
+*{
+    background-color: #ffbb33 ;
+}
